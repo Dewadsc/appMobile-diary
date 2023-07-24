@@ -1,0 +1,12 @@
+Project Name : Diary
+Status : Offline
+Nama aplikasi : Diary
+Package Name : com.diary
+Warna yang dibutuhkan : #eaeaea #ffffff #e91e63 #81d4f4
+
+Aplikasi :
+Ketika pertama kali di di buka aplikasinya, maka akan muncul tampilan Splash Screen selama 1500 ms. Kemudian auto pindah ke halaman beranda
+yang dimana akan menampilkan gambar dan juga text di backgroud jika tidak ada catatan sama sekali, serta menampilkan target promt disetiap
+menu ketika pertama kali memakai aplikasi. Dihalaman input seperti biasanya hanya untuk catatan baru. Ketika disave maka akan pindah kehalaman
+beranda. Menu yang tersedia untuk catatan adalah hapus dan lihat. Dihalaman lihat catatan diadakan fitur save catatan menjadi file txt untuk
+disimpan ke manager file.
